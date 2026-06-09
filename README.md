@@ -19,3 +19,6 @@ Framerate capping at multiple common framerates as well as uncapped
 The ability to change LUTS or clear the current LUT and pause the screen duplication via the system tray icon
 
 Scaling/no scaling (broken when selecting no scaling and using lower resolutions than your monitor)
+
+
+All customization and interaction with the program itself will happen through the system tray icon
